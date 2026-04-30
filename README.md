@@ -4,7 +4,7 @@
 In this project, I performed an end-to-end data analytics workflow on Uber data. Using Google Sheets for data preparation and Looker Studio for visualization, I designed an interactive dashboard that highlights City, trip, payment method and geographical insights in a clear and intuitive way.
 Uber analytics data tracks ride activity, including trips, fares, distances, and user behavior.It helps analyze demand patterns across cities and peak booking hours.The data provides insights into payment methods like card, UPI, wallet, and cash usage.It evaluates operational efficiency through trip status such as completed, cancelled, and no-shows.These insights support better decision-making, pricing strategies, and service optimization.
 
-![CoverImage](UberCoverImage.png)
+![CoverImage]()
 
 
 ## File Details
