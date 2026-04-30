@@ -40,15 +40,21 @@ Uber analytics data tracks ride activity, including trips, fares, distances, and
 
 ## Key Insights & Statistics
 -**Display core metrics** like Total Trips, Total Revenue, Avg Fare, Avg Distance for quick overview.
+
 -**Shows percentage distribution** of trips across cities to compare demand.
+
 -**Compares revenue contribution** from each city.
+
 -**Provides detailed breakdown** of Card, Wallet, UPI, and Cash usage.
+
 -**Visualizes trip** density and high-demand locations across regions.
+
 -**Displays counts** of Completed, Cancelled, and No-show trips.
+
 **Allows dynamic analysis** by City, Payment Method, and Status.
 
 ## Future Scope
-**Use historical trip data to forecast demand, peak hours, and surge pricing.
+Use historical trip data to forecast demand, peak hours, and surge pricing.
 
 Add live trip tracking and real-time Key Performance Indicators for instant decision-making.
 
@@ -58,16 +64,21 @@ Enhance analysis with surge pricing trends and revenue optimization strategies.
 
 Introduce metrics like driver ratings, acceptance rate, and efficiency scoring.
 
-Include weather, traffic, and event data to improve demand prediction.**
+Include weather, traffic, and event data to improve demand prediction.
 
 ## Dashboard Image
 
 
-## Data Cleaning & Preparation*
+## Data Cleaning & Preparation
 **Removed duplicate values
+
 Handled missing or incomplete values
+
 Verified dates and time formats
+
 Validated calculated fields such as total trips,fare amount and distance in km.
-Structured categorical fields for better filtering in dashboards.**
+
+Structured categorical fields for better filtering in dashboards.
+
 
 
