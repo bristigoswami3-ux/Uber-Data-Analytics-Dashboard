@@ -49,18 +49,21 @@ Uber analytics data tracks ride activity, including trips, fares, distances, and
 
 ## Future Scope
 **Use historical trip data to forecast demand, peak hours, and surge pricing.
+
 Add live trip tracking and real-time Key Performance Indicators for instant decision-making.
+
 Build models to reduce cancellations through alerts and incentives.
+
 Enhance analysis with surge pricing trends and revenue optimization strategies.
+
 Introduce metrics like driver ratings, acceptance rate, and efficiency scoring.
+
 Include weather, traffic, and event data to improve demand prediction.**
 
 ## Dashboard Image
 
 
 ## Data Cleaning & Preparation*
-Before starting the analysis, the dataset required thorough cleaning and validation to ensure accuracy and consistency.
-
 **Removed duplicate values
 Handled missing or incomplete values
 Verified dates and time formats
