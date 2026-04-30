@@ -67,7 +67,7 @@ Introduce metrics like driver ratings, acceptance rate, and efficiency scoring.
 Include weather, traffic, and event data to improve demand prediction.
 
 ## Dashboard Image
-![Dashboard Screenshot](UberDashboard.png)
+![Dashboard Screenshot](Uber Dashboard.png)
 
 ## Data Cleaning & Preparation
 **Removed duplicate values
