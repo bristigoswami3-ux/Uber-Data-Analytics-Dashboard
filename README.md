@@ -9,8 +9,8 @@ Uber analytics data tracks ride activity, including trips, fares, distances, and
 ## File Details
 - **Filename:** [`Uber Dataset.xlsx`](https://docs.google.com/spreadsheets/d/1M6mwaW4bGIHo6-_Gg0ECvCUVnFchvEwvrQ7cpSueqgE/edit?gid=528600904#gid=528600904)
 - **Total Records:** `50000`
-- **Primary Keys:** `City`,`Payment Method`,`Status`
-- **Source of Data:** [`uber_trips_dataset_50k (1)`](https://www.kaggle.com/datasets/ruchikakumbhar/uber-dataset)
+- **Primary Keys:** `trip_id`,`driver_id`,`rider_id`,`status`,`payment_method`,`fare_amount`
+- **Source of Data:** [`uber_trips_dataset_50k`](https://www.kaggle.com/datasets/ruchikakumbhar/uber-dataset)
 
 
 ## Data Dictionary
